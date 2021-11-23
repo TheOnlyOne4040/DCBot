@@ -1,0 +1,9 @@
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\bin\Debug\netcoreapp3.1\DCBot.DAL.deps.json
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\bin\Debug\netcoreapp3.1\DCBot.DAL.dll
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netcoreapp3.1\DCBot.DAL.csprojAssemblyReference.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netcoreapp3.1\DCBot.DAL.AssemblyInfoInputs.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netcoreapp3.1\DCBot.DAL.AssemblyInfo.cs
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\bin\Debug\netcoreapp3.1\DCBot.DAL.pdb
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netcoreapp3.1\DCBot.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netcoreapp3.1\DCBot.DAL.dll
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netcoreapp3.1\DCBot.DAL.pdb

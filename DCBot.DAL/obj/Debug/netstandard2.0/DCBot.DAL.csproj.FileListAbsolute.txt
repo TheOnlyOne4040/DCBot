@@ -1,0 +1,5 @@
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\bin\Debug\netstandard2.0\DCBot.DAL.deps.json
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\bin\Debug\netstandard2.0\DCBot.DAL.dll
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netstandard2.0\DCBot.DAL.csprojAssemblyReference.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netstandard2.0\DCBot.DAL.AssemblyInfoInputs.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL\obj\Debug\netstandard2.0\DCBot.DAL.AssemblyInfo.cs

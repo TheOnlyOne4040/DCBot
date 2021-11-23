@@ -1,0 +1,12 @@
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\bin\Debug\netcoreapp3.1\DCBot.DAL.Migrations.deps.json
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\bin\Debug\netcoreapp3.1\DCBot.DAL.Migrations.dll
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\bin\Debug\netcoreapp3.1\DCBot.DAL.Migrations.pdb
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.csprojAssemblyReference.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.AssemblyInfoInputs.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.AssemblyInfo.cs
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.dll
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.pdb
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\bin\Debug\netcoreapp3.1\DCBot.DAL.dll
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\bin\Debug\netcoreapp3.1\DCBot.DAL.pdb
+C:\Users\bhind\Desktop\Projects\DCBot\DCBot.DAL.Migrations\obj\Debug\netcoreapp3.1\DCBot.DAL.Migrations.csproj.CopyComplete
